@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/9fcb1_next_dist_de4ab57f._.js",
+      "static/chunks/imobilia-market_frontend_src_app_favicon_ico_mjs_8b61a2f5._.js",
+      "static/chunks/[root-of-the-server]__39dc01e7._.css",
+      "static/chunks/imobilia-market_frontend_src_app_layout_263ef125.js",
+      "static/chunks/9fcb1_next_dist_client_components_builtin_global-error_02027705.js",
+      "static/chunks/9fcb1_next_dist_f31de09c._.js",
+      "static/chunks/imobilia-market_frontend_src_app_page_02027705.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_40dba2ad._.js",
+      "static/chunks/9fcb1_next_dist_compiled_react-dom_5ddd7d37._.js",
+      "static/chunks/9fcb1_next_dist_compiled_next-devtools_index_3915e2d5.js",
+      "static/chunks/9fcb1_next_dist_compiled_7e5cd86d._.js",
+      "static/chunks/9fcb1_next_dist_client_21916298._.js",
+      "static/chunks/9fcb1_next_dist_b2188835._.js",
+      "static/chunks/9fcb1_@swc_helpers_cjs_74115216._.js",
+      "static/chunks/imobilia-market_frontend_a0ff3932._.js",
+      "static/chunks/turbopack-imobilia-market_frontend_78b712a0._.js"
+    ]
+  }
+}
